@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 8d55c9c476afb73479122b0c742d1902
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Allies_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 494
+        width: 232
+        height: 218
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.09308981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9864444881c6f924daf5f041fa174119
+      internalID: 1564708859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 283
+        width: 53
+        height: 78
+      alignment: 9
+      pivot: {x: 0.66272134, y: 0.67374754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e131a7796f33e429ce3e747087fc33
+      internalID: 575466602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.561602, y: 0.6687714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c68accfa9a84429d8216db3125d22
+      internalID: 625203899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 418
+        width: 122
+        height: 357
+      alignment: 9
+      pivot: {x: 0.55049336, y: 0.30673978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3ea662eee7594d92f9785151a1e41
+      internalID: -165743527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 483
+        width: 271
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49545366, y: 0.102290854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a605bb4d7d16264ab08b5242793ede2
+      internalID: 701475628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 237
+        width: 44
+        height: 71
+      alignment: 9
+      pivot: {x: 0.38799772, y: 0.63881975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897538949748c0240bbda0a29ea102a6
+      internalID: 1861067952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 247
+        width: 48
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7053388, y: 0.5462006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d5d39b87561b41886b59922601549
+      internalID: 60774096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_7
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 210
+        width: 66
+        height: 80
+      alignment: 9
+      pivot: {x: 0.55600256, y: 0.65400314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1967b5ee99a64143978e6988917bc10
+      internalID: -579637861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 454
+        width: 285
+        height: 310
+      alignment: 9
+      pivot: {x: 0.47838563, y: 0.13833845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199322b76abd934aa6f551486af4ee7
+      internalID: 1240670369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_9
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 504
+        width: 328
+        height: 298
+      alignment: 9
+      pivot: {x: 0.47746313, y: 0.045222543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b253a792aa5049938d9bebfe57ac4
+      internalID: -1931170389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_10
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 243
+        width: 71
+        height: 106
+      alignment: 9
+      pivot: {x: 0.7429371, y: 0.66272056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26b3e33c281964ab39ca575b9c06fe
+      internalID: -787758630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 197
+        width: 63
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6955625, y: 0.71034634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0a876da2fe0a48ae001040fb9fc0b
+      internalID: -1791690778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_12
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 186
+        width: 75
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3193034, y: 0.6482999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc48d37eb3a4814bba100ae20f6ceb1
+      internalID: -840465694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Allies_13
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 217
+        width: 270
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5228163, y: 0.075162895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2557565794024a9fe270c7fc7d5d4
+      internalID: -1093717501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Allies_0: 1564708859
+      Allies_1: 575466602
+      Allies_10: -787758630
+      Allies_11: -1791690778
+      Allies_12: -840465694
+      Allies_13: -1093717501
+      Allies_14: 1617863557
+      Allies_2: 625203899
+      Allies_3: -165743527
+      Allies_4: 701475628
+      Allies_5: 1861067952
+      Allies_6: 60774096
+      Allies_7: -579637861
+      Allies_8: 1240670369
+      Allies_9: -1931170389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
